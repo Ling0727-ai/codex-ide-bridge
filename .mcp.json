@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "codex-ide-bridge": {
+      "command": "node",
+      "args": [
+        "./runtime/server.mjs"
+      ],
+      "env_vars": [
+        "CODEX_IDE_BRIDGE_CONFIG",
+        "CODEX_PLUGIN_WORKSPACE",
+        "DSH_IDE_TOKEN",
+        "DSH_IDE_DISCOVERY_FILE",
+        "DSH_IDE_DISCOVERY_DIR"
+      ],
+      "startup_timeout_sec": 30,
+      "tool_timeout_sec": 240
+    }
+  }
+}

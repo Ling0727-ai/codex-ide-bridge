@@ -1,0 +1,16 @@
+{
+  "name": "codex-ide-bridge",
+  "version": "1.1.1",
+  "description": "Live IDE control, standalone semantic retrieval and editing, project onboarding and persistent memories.",
+  "author": {
+    "name": "Local DSH adaptation"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Codex IDE Bridge",
+    "shortDescription": "IDE tools, symbols and memory",
+    "category": "Productivity"
+  }
+}

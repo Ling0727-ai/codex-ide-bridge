@@ -1,0 +1,7 @@
+{
+  "sourceFolder": "DSH-IDE-Bridge",
+  "sourcePackage": "dsh-ide-bridge",
+  "sourceVersion": "0.4.0",
+  "adapterVersion": "1.1.1",
+  "notes": "Live IDE tools plus standalone JS/TS and Python semantics, configurable language servers, project onboarding and memories. The existing DSH IDE companion remains compatible and is optional for disk-based operations."
+}

@@ -1,0 +1,20 @@
+{
+  "languageServers": {
+    "go": {
+      "command": "gopls",
+      "args": [
+        "serve"
+      ]
+    },
+    "rust": {
+      "command": "rust-analyzer",
+      "args": []
+    },
+    "cpp": {
+      "command": "clangd",
+      "args": [
+        "--background-index"
+      ]
+    }
+  }
+}
